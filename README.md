@@ -5,7 +5,7 @@ The primary objective of the Challenge is to create a model that can anticipate 
 
 In this repository, we present an ensemble learning approach that utilizes wearable data to predict PD patients' wear-off. For an in-depth understanding of our methodology, please refer to our paper titled "Forecasting Wearing-Off in Parkinson's Disease: An Ensemble Learning Approach Using Wearable Data."
 
-## Our solution secured 1st place (https://abc-research.github.io/challenge2023/results/).
+## Our solution secured 1st place [Results](https://abc-research.github.io/challenge2023/results/).
 If you find our code helpful or incorporate it into your work, we kindly request you to cite our associated article:
 ## Citation
 ```plaintext
