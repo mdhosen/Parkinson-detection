@@ -3,7 +3,7 @@ This repository contains our solution code for Forecasting Wearing-Off in Parkin
 # Challenge Overview
 The primary objective of the Challenge is to create a model that can anticipate the "wearing-off" of anti-PD medication. The dataset used for this challenge can be accessed on the challenge website: [Wearing-Off in Parkinson’s Disease Challenge Data](https://abc-research.github.io/challenge2023/).
 
-In this repository, we present an ensemble learning approach that utilizes wearable data to predict PD patients' wear-off. For an in-depth understanding of our methodology, please refer to our paper titled "Forecasting Wearing-Off in Parkinson's Disease: An Ensemble Learning Approach Using Wearable Data."
+In this repository, we present an ensemble learning approach that utilizes wearable data to predict PD patients' wear-off. For an in-depth understanding of our methodology, please refer to our paper titled "Forecasting Wearing-Off in Parkinson's Disease: An Ensemble Learning Approach Using Wearable Data." Abstracts are available [Abstract](https://drive.google.com/file/d/1PAdzvO0fkesGGzcLOkA1NOvgab72YF6U/view).
 
 ## Our solution secured 1st place [Results](https://abc-research.github.io/challenge2023/results/).
 If you find our code helpful or incorporate it into your work, we kindly request you to cite our associated article:
